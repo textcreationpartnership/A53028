@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Acts made the 5th Assembly, 5th sessions beginning the 25th of March, 1697, and ending the 22th day of April following, anno regni Regis Gulielmi Tertij, Angliæ, Scotiæ, Franciæ &amp; Hiberniæ, nono.</title>
+            <title>Laws, etc.</title>
+            <author>New York (State)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53028</idno>
+            <idno type="STC">Wing N827</idno>
+            <idno type="STC">ESTC R4809</idno>
+            <idno type="EEBO-CITATION">12415710</idno>
+            <idno type="OCLC">ocm 12415710</idno>
+            <idno type="VID">61641</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61641)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 284:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Acts made the 5th Assembly, 5th sessions beginning the 25th of March, 1697, and ending the 22th day of April following, anno regni Regis Gulielmi Tertij, Angliæ, Scotiæ, Franciæ &amp; Hiberniæ, nono.</title>
+                  <title>Laws, etc.</title>
+                  <author>New York (State)</author>
+                  <author>New York State. General Assembly.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>By William Bradford,</publisher>
+                  <pubPlace>[New York :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Legislation --  New York (State)</term>
+               <term>Law --  New York (State)</term>
+               <term>New York (State) --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="acts">
+            <pb facs="tcp:61641:1"/>
+            <pb facs="tcp:61641:1" rendition="simple:additions"/>
+            <head>Acts made the 5th Aſſembly, 5th Seſſions.</head>
+            <head type="sub">Beginning the 25th of <hi>March,</hi> 1697. and ending the 22th day of <hi>April</hi> fol<g ref="char:EOLhyphen"/>lowing, <hi>Anno Regni Regis</hi> Gulielmi <hi>Tertij, Angliae, Scotiae, Franciae &amp; Hiberniae, Nono</hi>
+            </head>
+            <div type="act">
+               <head>An <hi>ACT.</hi> for the raiſing the Sum of Three and Twenty Hundred Pounds to Enabl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Excellency to ſecure the Ftonteers at <hi>Albany,</hi> and for recruiting his Majeſties three Companies poſted there, with a ſufficient Number to com<g ref="char:EOLhyphen"/>pleat Three Hundred effective Men, to remain there from the firſt of <hi>May</hi> next, untill the firſt of <hi>May</hi> then next following, and to free the Inhabitants during the ſaid Time, from Detachments.</head>
+               <p>THe Repreſentatives convened in General Aſſembly, in humble ackno<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ledgment of the great &amp; prudent Care that his Excellency hath <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aken for the Security of the Fronteers of this Province at <hi>Albany,</hi> as well as that his Excellency may be the better enabled to ſecure the ſaid Fronteers, by recruiting his Majeſty's three Companies poſted there, with a ſufficient Number to compleat the ſaid Companys, three Hundred effective Men, and for their encouragement to remain there from the firſt day of <hi>May</hi> next to the firſt day of <hi>May</hi> then next following, alſo during the ſaid Time, to eaſe the Inhabitants of the ſaid Province from any further Supplyes in Aſſembly, for that Service, as well as to free them from Detachments, unleſs in the caſe of inevitable Neceſſity, Do humbly pray that it may be Enacted, <hi>And be it therefore Enacted by his Excellency the Go<g ref="char:EOLhyphen"/>vernour and Council, and Repreſentatives conven'd in General Aſſembly, and by the Authority of the ſame,</hi> That the Sum of Three and Twenty Hundred Pounds current Money of this Province be laid, aſſeſſed, levyed and raiſed
+<pb facs="tcp:61641:2"/>upon all and every the the Inhabitants, Reſidents, Sojourners and Free<g ref="char:EOLhyphen"/>holders of and in this Province, to be imployed by his Excellency in man<g ref="char:EOLhyphen"/>ner and form following, That is to ſay, The Sum of eighteen Hundred Pounds, part of the ſaid Sum of three and twenty Hundred Pounds, for the recruiting of his Majeſties ſaid three Companys poſted at <hi>Albany</hi> for the Security of the Fronteers of this Province there, with a ſufficient Number to compleat the ſaid 3 Companys three hundred effective Men, and for their en<g ref="char:EOLhyphen"/>couragement to remain there from the aforeſaid firſt Day of <hi>May</hi> next, to the firſt Day of <hi>May</hi> then next following, as alſo during the ſaid time to eaſe the Inhabitants of the ſaid Province from any further Supplyes in Aſſembly for that Service, as well as to free them from Detachments (unle<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in the caſe of inevitable neceſſity) And alſo the Sum of five Hundred Pounds, the reſidue of the aforeſaid Sum of 230 <hi>l.</hi> current Money aforeſaid, to be lodged at <hi>Albany</hi> and diſtributed amongſt ſuch as ſhall be imployed to range the Woods, for diſcovering the motion of the Enemy, as occaſion, and to no other Uſe, Intent or purpoſe whatſoever; which Sum of 230 <hi>l.</hi> current Money aforeſaid, ſhall be raiſed, aſſeſſed, levyed and paid unto his Maje<g ref="char:EOLhyphen"/>ſties Collector and Receiver General, for the time being, at the City of New-York, in two equal Payments, that is to ſay, the one moiety or half part thereof, at or before the 29th Day of <hi>September</hi> next, and the other moity or equal half part thereof, at or before the 25th Day of <hi>March</hi> then next following, in ſuch manner, and according to the ſeveral and reſpective Quota's and Proportions following, that is to ſay,</p>
+               <p>For the City and County of <hi>New-York,</hi> the Sum of ſeven hundred and ſeven Pounds five Shillings, current Money aforeſaid.</p>
+               <p>For the County of <hi>Suffolk,</hi> the Sum of four hundred and fourteen Pounds, current Money aforeſaid.</p>
+               <p>For <hi>Kings County,</hi> the Sum of three hundred ſeventy two Pounds twelve Shillings, current Money aforeſaid.</p>
+               <p>For <hi>Queens County,</hi> the Sum of three hundred ſeventy one Pounds nine Shillings, current Money aforeſaid.</p>
+               <p>For the County of <hi>
+                     <g ref="char:V">Ʋ</g>lſter</hi> and <hi>Dutches,</hi> the Sum of one hundred ninety ſeven Pounds ſixteen Shillings, current Money aforeſaid.</p>
+               <p>For the County of <hi>Weſtcheſter,</hi> the Sum of one hundred thirty three Pounds eight Shillings, current Money aforeſaid.</p>
+               <p>For the County of <hi>Richmond,</hi> the Sum of eighty Pounds ten Shillings, current Money aforeſaid.</p>
+               <p>For the County of <hi>Orange,</hi> the Sum of twenty three Pounds, current Money aforeſaid.</p>
+               <p>And for the due and better aſſeſſing, raiſing, levying and paying the afore<g ref="char:EOLhyphen"/>ſaid Sum of 230 <hi>l.</hi> current Money aforeſaid, <hi>Be it therefore further Enacted by the Authority aforeſaid,</hi> That the Mayor and Aldermen of the City of New-York, the Juſtices of the Peace, the Aſſeſſors and Collectors for the time being, of all and every of the reſpective Cities and Counties, Towns and Mannors, Liberties and Juriſdictions within this Province, are hereby required, impowered and authorized to ſummons and aſſes, collect and pay the ſeveral Sums of Money herein before-mentioned, according to the Quota's and Proportions before expreſſed, in ſuch ways and means, and
+<pb facs="tcp:61641:2"/>according to ſuch rule, manner and direction, and under ſuch Pains and Penalties as are contained, enjoyned, preſcribed, directed and mentioned in one Act of General Aſſembly, paſſed in the eighth Year of his Majeſties Reign, entituled, <hi>An Act for the raiſing of one Hundred Men, to be listed in his Majeſties three Compan<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s poſt<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d at</hi> Albany <hi>for the ſecurity of the Fronteers, and for the raiſing of Twelve Hundred Pounds for the encouraging ſuch as ſhall liſt themſelves in the ſaid Companys, and for the defraying of contingent Charges at the ſaid Fronteers.</hi> And all and every Article, Rule, Clauſe, Pains and Penalties expreſſed and mention<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in the aforeſaid Act for and concerning the ſum<g ref="char:EOLhyphen"/>moning, aſſeſſing, collecting and paying of Money, or for refuſing and neglecting the ſeveral and reſpective Duties required therein, ſhall be, abide, continue and remain in full force and effect to all intents and purpoſes, and in as full and ample manner, for the due execution of this Act, until the aforeſaid Sum of Three and Twenty Hundred Pounds, current Money aforeſaid, be duly, fully and compleatly aſſeſſed, collected and paid, as above directed, as fully, and in like manner as if the ſame were particularly and at large recited and ſet down in the Body of this Act, any thing herein to the contrary hereof in any ways notwithſtanding. And the Mayor and Alder<g ref="char:EOLhyphen"/>men of the City of <hi>New-York,</hi> and all and every of the Juſtices, Aſſeſſors and Collectors of the reſpective Cities and Counties aforeſaid, and all others concerned herein, are hereby Required and Commanded to take ſtrict Notice hereof accordingly.</p>
+            </div>
+            <div type="act">
+               <head>An Act for the Confirming and Continuing two Acts paſſed in the Fifth and Seventh Years of his Majeſties Reign, for the eſtabliſh<g ref="char:EOLhyphen"/>ing Courts of Judicature, <hi>&amp;c.</hi> for one year longer after the time mentioned in the ſaid Acts expire by their Limitation.</head>
+               <p>
+                  <hi>BE it Enacted by his Excellency the Governour and Council, and Repreſen<g ref="char:EOLhyphen"/>tatives convened in General Aſſembly, and it is hereby Enacted by the Authority of the ſame,</hi> That an Act of Aſſembly, paſſed in the 7th yea<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the Reign of our Soveraign Lord, <hi>WILLIAM</hi> the Third, King <hi>
+                     <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>land, &amp;c.</hi> entituled, <hi>An Act for confirming and continuing an Act for <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ing Courts of Judicature, for the eaſe and benefit of each reſpective City, <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n and County within this Province</hi> ſhall be, abide, continue and remain <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> full force and effect to all intents and purpoſes whatſoever; and all and eve<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the Articles, Rules and Clauſes mentioned in the ſaid Act, as well as all and every the Articles, Rules and Clauſes recited and mentioned in ano<g ref="char:EOLhyphen"/>ther <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t of Aſſembly made in the fifth year of the Reign of our ſaid So<g ref="char:EOLhyphen"/>v<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Lord the King that now is, entituled. <hi>An Act for eſtabliſhing Courts of Judicature for the caſe and benefit of each reſpective City, Town and County w<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> this Province,</hi> for and during the ſpace and term of one whole year <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> after the expiration of the time limitted in the aforeſaid Act, and <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, in as full and ample manner as if all and every the aforeſaid R<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Articles and Clauſes were recited, expreſſed and mentioned in this Act, any thing therein to the contrary hereof in any ways notwithſtanding.</p>
+            </div>
+            <div type="act">
+               <pb facs="tcp:61641:3"/>
+               <head>An Act for the raiſing a yearly Rate to pay the reſpective Collectors in each reſpective City and County in this Province, for their pains in collecting and paying the Publibk Rates and Taxes.</head>
+               <p>WHereas the reſpective Cities and Counties within this Province have neglected to make annual Rate for the ſatisfying the Collectors for their Charge and Trouble in the collecting and paying the Publick Taxes raiſed in their reſpective Cities and Counties, to the great hurt and loſs of thoſe Collectors that have been imployed in the ſaid Service, as well as the great delay in the paying of the ſaid Taxes unto his Majeſties Collector and Receiver General. To the end therefore that the ſame may b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> removed, <hi>Be it Enacted by his Excellency the Governour and Council, and Repreſentatives convened in General Aſſembly, and by the Authority of the ſame.</hi> That there ſhall be laid and aſſeſſed annually, and once every year, a certain Rate in each reſpective City and County within the ſaid Province, for the paying and ſatisfying the reſpective Collectors of the Publick Taxes within their reſpective Limits and Precincts in their reſpective Counties, according to ſuch Agreement as the reſpective Juſtices of the reſpective Cities and Coun<g ref="char:EOLhyphen"/>ties within this Province, ſhall make with the ſeveral Collectors in their reſpective Cities and Counties aforeſaid, provided the ſame ſhall not exceed <hi>Nine Pence per Pound,</hi> unleſs <hi>Queens County,</hi> who may raiſe a rate for the ſatisfying the Arrears due to their reſpective Collectors within the ſaid County.</p>
+            </div>
+            <div type="act">
+               <head>An Act to enable the City and County of <hi>Albany</hi> to Defray their Neceſſary Charge.</head>
+               <p>WHereas there was an Act of General Aſſembly made in the ſeventh Year of his Majeſties Reign, entituled, <hi>An Act to enable the City and County of</hi> Albany <hi>to defray their neceſſary Charge for two years from the Publication thereof:</hi> Which Act doth terminate, by its own Limitation, upon the firſt day of <hi>July</hi> next. And the Repreſentatives of the ſaid City and County of <hi>Albany</hi> humbly praying, That the ſaid Act may be renewed and continued for two years longer after the expiration of the ſaid Act, <hi>Be it therefore Enacted by his Excellency the Governour and Council, and Repreſenta<g ref="char:EOLhyphen"/>tives convened in General Aſſembly, and it is hereby Enacted by the Authority of the ſame,</hi> That the Impoſition or Rate of <hi>Two per Cent.</hi> ſhall be raiſed and levyed upon all <hi>Indian Goods</hi> that are brought up to that City and County of <hi>Albany</hi> and there ſold and conſumed. And alſo, that the Impoſt of <hi>Three Pence</hi> be raiſed and levyed upon each Gallon of Rum that is ſold and con<g ref="char:EOLhyphen"/>ſumed within that City and County. And for the due and orderly collect<g ref="char:EOLhyphen"/>ing of the reſpective Impoſts and Rates, the Treaſurer of the ſaid City for the time being, or any appointed by him, and the Mayor of the ſaid City,
+<pb facs="tcp:61641:3"/>under the publick Seal of the ſaid City, are hereby impowered and authoriz<g ref="char:EOLhyphen"/>ed to appoint, conſtitute and eſtabliſh a Collector or Receiver of the Rates and Impoſts aforeſaid, who ſhall have Power to receive the ſame, and to enter in a fair Book, kept for that purpoſe, all ſuch Sum and Sums of Money as ſhall be ſo entered and received for the reſpective Duties aforeſaid, the ſaid Collector or Receiver appointing certain convenient Times and Places for the keeping of the Office, as ſhall be directed by the Court of Mayor and Aldermen, and Aſſiſtants of the ſaid City. And all Perſons that Trade, and bring up to the ſaid City and County the afore-mentioned <hi>Indian Goods</hi> and <hi>Rum,</hi> are hereby required to make a Report of the Quan<g ref="char:EOLhyphen"/>tity and Value of ſuch Goods and Rum they ſo bring up and ſell in the City and County aforeſaid, and pay the Duties and Impoſts hereby eſtabliſhed, without being at any further charge than the ſaid Duty. And in default hereof it ſhall be lawfull for the Mayor, Treaſurer, or any other Officer hereby authorized, to iſſue out his or their Warrant, under his or their Hand and Seal, for the ſeizing all ſuch Goods &amp; Rum as ſhall be imbezeled, and not pay the Duties aforeſaid, one third to the Informer, one third to the ſaid City and County of <hi>Albany,</hi> and one third to his Excellency the Go<g ref="char:EOLhyphen"/>vernour or Commander in chief for the time being. <hi>Provided,</hi> That all the Sum and Sums of Money that are hereby received, ſhall be only appro<g ref="char:EOLhyphen"/>priated and applyed to the defraying of the neceſſary Charge of the City and County aforeſaid. And that the Treaſurer, Collector or Receiver, for the time being, ſhall not pay any of the Money received as aforeſaid, but by Warrant from the Mayor of the ſaid City, and approved by the Juſtices of the Peace of the ſaid County. <hi>Provided,</hi> That this Act ſhall only remain in force for the ſpace of two years, and no longer, and to commence upon the expiration of the former Act, any thing contained herein to the contrary hereof notwithſtanding.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
